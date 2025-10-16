@@ -9,8 +9,8 @@ A full-stack **QR-based restaurant ordering platform** where customers scan a ta
 | Member | Role | Key Responsibilities |
 |---------|------|----------------------|
 | Punit Tak | Backend Developer | APIs, MongoDB Models, Auth, Socket.IO |
-| Raghav Kaushik | Frontend Developer | Customer UI, Staff Dashboard |
-| Priyani Jain | Admin/DevOps | Admin Panel, QR Generator, Deployment |
+| Priyani Jain| Frontend Developer | Customer UI, Staff Dashboard |
+| Raghav Kaushik | Admin/DevOps | Admin Panel, QR Generator, Deployment |
 
 ---
 
