@@ -48,4 +48,4 @@ See `/docs/PROJECT_PLAN.md` for detailed breakdown.
 ---
 
 ### 📜 License
-MIT License © 2025 Your Team Name
+MIT License © 2025 Digital Dine
